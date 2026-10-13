@@ -41,3 +41,6 @@ evaluation/dataset/
 .idea/
 .DS_Store
 Thumbs.db
+# Node.js dependencies and build outputs
+node_modules/
+dist/
