@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 import os
 from datetime import datetime, timezone
-
+from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 from langsmith import Client
 from fastapi import FastAPI, HTTPException
@@ -14,6 +14,18 @@ EVALUATION_FILE = (
 )
 
 app = FastAPI(title="ReportIQ API", version="1.0.0")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+        "https://report-iq-rho.vercel.app",
+    ],
+    allow_credentials=False,
+    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_headers=["Content-Type"],
+)
 
 load_dotenv()
 
