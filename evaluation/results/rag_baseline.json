@@ -1,0 +1,388 @@
+[
+  {
+    "question": "What is Nexora Technologies' headquarters?",
+    "expected_source": "01_company_people_governance.md",
+    "expected_text": "headquartered in Bengaluru, India",
+    "answer": "Nexora Technologies' headquarters is in Bengaluru, India.",
+    "contexts": [
+      {
+        "text": "# **1. Company Overview**  \n## **a. About Nexora Technologies**  \nNexora Technologies Pvt. Ltd. is a technology and digital transformation company founded in 2018 and headquartered in Bengaluru, India.  \nThe company provides technology engineering, cloud transformation, data and artificial intelligence, cybersecurity, digital experience and managed technology services to organizations across multiple industries.  \nNexora operates across India, the United Kingdom, Europe and North America.  \nAs of 01 April 2026, Nexora has approximately **1,180 employees and approved workforce members** across its operating locations.  \nThe company combines consulting, engineering and managed services capabilities to help customers modernize technology platforms, improve operational processes and build data-driven products.  \nNexora's operating philosophy is:  \n**_Understand the problem. Protect the information. Build responsibly. Deliver measurable value. Learn continuously._**",
+        "metadata": {
+          "h1": "**Company, People & Corporate Governance Handbook**",
+          "h2": "**Document Control**",
+          "h3": "**Revision History**",
+          "source": "data\\processed\\markdown\\01_company_people_governance.md"
+        }
+      },
+      {
+        "text": "## **c. Global Workforce Distribution**  \nNexora's workforce is distributed across four principal offices.  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 2 / 33  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \n|**Location**|**Workforce**|\n|---|---|\n|Bengaluru|510|\n|Pune|285|\n|Hyderabad|250|\n|London|135|\n|**Total**|**1,180**|  \nBengaluru is the corporate headquarters and the largest engineering and technology center.  \nPune has significant engineering, customer delivery and managed-services operations.  \nHyderabad hosts engineering, cloud, data and customer delivery teams.  \nLondon serves as Nexora's principal UK commercial and customer-facing center.  \nThe company may employ remote workers outside these office locations where business and employment arrangements permit.",
+        "metadata": {
+          "h1": "**1. Company Overview**",
+          "h2": "**c. Global Workforce Distribution**",
+          "source": "data\\processed\\markdown\\01_company_people_governance.md"
+        }
+      },
+      {
+        "text": "## **b. Company Facts**  \n|**Attribute**|**Current Position**|\n|---|---|\n|Legal Name|Nexora Technologies Pvt. Ltd.|\n|Founded|2018|\n|Headquarters|Bengaluru, India|\n|Workforce|Approximately 1,180|\n|Operating Model|Hybrid|\n|Primary Markets|India, UK, Europe, North America|\n|Core Business|Technology & Digital Transformation|\n|Primary Currency|INR|\n|UK Operations|London|\n|India Operations|Bengaluru, Pune, Hyderabad|",
+        "metadata": {
+          "h1": "**1. Company Overview**",
+          "h2": "**b. Company Facts**",
+          "source": "data\\processed\\markdown\\01_company_people_governance.md"
+        }
+      }
+    ]
+  },
+  {
+    "question": "When was Nexora Technologies founded?",
+    "expected_source": "01_company_people_governance.md",
+    "expected_text": "founded in 2018",
+    "answer": "Nexora Technologies was founded in **2018**.",
+    "contexts": [
+      {
+        "text": "# **1. Company Overview**  \n## **a. About Nexora Technologies**  \nNexora Technologies Pvt. Ltd. is a technology and digital transformation company founded in 2018 and headquartered in Bengaluru, India.  \nThe company provides technology engineering, cloud transformation, data and artificial intelligence, cybersecurity, digital experience and managed technology services to organizations across multiple industries.  \nNexora operates across India, the United Kingdom, Europe and North America.  \nAs of 01 April 2026, Nexora has approximately **1,180 employees and approved workforce members** across its operating locations.  \nThe company combines consulting, engineering and managed services capabilities to help customers modernize technology platforms, improve operational processes and build data-driven products.  \nNexora's operating philosophy is:  \n**_Understand the problem. Protect the information. Build responsibly. Deliver measurable value. Learn continuously._**",
+        "metadata": {
+          "h1": "**Company, People & Corporate Governance Handbook**",
+          "h2": "**Document Control**",
+          "h3": "**Revision History**",
+          "source": "data\\processed\\markdown\\01_company_people_governance.md"
+        }
+      },
+      {
+        "text": "# **2. History, Strategy & Values**  \n## **a. Company History**  \nNexora was established in 2018 with the objective of providing engineering-led technology transformation services to organizations undergoing digital modernization.  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 3 / 33  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \nThe company initially focused on software engineering and technology consulting.  \nBetween 2019 and 2021, Nexora expanded its engineering and cloud capabilities and established additional delivery operations in India.  \nBetween 2022 and 2024, the company expanded into data engineering, analytics, cybersecurity and managed technology services.  \nDuring 2025, Nexora increased investment in artificial intelligence, automation and cloud-native engineering.  \nIn 2026, the company operates as an integrated technology organization combining:  \n- Engineering  \n- Product  \n- Data & AI  \n- Cloud  \n- Cybersecurity  \n- Customer Delivery",
+        "metadata": {
+          "h1": "**2. History, Strategy & Values**",
+          "h2": "**a. Company History**",
+          "source": "data\\processed\\markdown\\01_company_people_governance.md"
+        }
+      },
+      {
+        "text": "### **Revision History**  \n|**Version**|**Date**|**Description**|**Approved By**|\n|---|---|---|---|\n|1.0|01 Apr 2026|Initial consolidated company handbook|CEO|  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 1 / 33  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**",
+        "metadata": {
+          "h1": "**Company, People & Corporate Governance Handbook**",
+          "h2": "**Document Control**",
+          "h3": "**Revision History**",
+          "source": "data\\processed\\markdown\\01_company_people_governance.md"
+        }
+      }
+    ]
+  },
+  {
+    "question": "What is Nexora Technologies' company-wide operating philosophy?",
+    "expected_source": "01_company_people_governance.md",
+    "expected_text": "Nexora's operating philosophy is",
+    "answer": "Nexora Technologies’ company‑wide operating philosophy is: **“Understand the problem. Protect the information. Build responsibly. Deliver measurable value. Learn continuously.”**",
+    "contexts": [
+      {
+        "text": "## **c. Data and AI Philosophy**  \nNexora treats data as an enterprise asset and AI as a controlled capability rather than an independent technology category.  \nThe operating philosophy is:  \n**_Make data trustworthy. Make decisions measurable. Make AI useful. Automate responsibly. Protect information throughout the lifecycle._**",
+        "metadata": {
+          "h1": "**1. Purpose, Scope & Data Operating Philosophy**",
+          "h2": "**c. Data and AI Philosophy**",
+          "source": "data\\processed\\markdown\\05_data_analytics_ai_automation.md"
+        }
+      },
+      {
+        "text": "# **1. Company Overview**  \n## **a. About Nexora Technologies**  \nNexora Technologies Pvt. Ltd. is a technology and digital transformation company founded in 2018 and headquartered in Bengaluru, India.  \nThe company provides technology engineering, cloud transformation, data and artificial intelligence, cybersecurity, digital experience and managed technology services to organizations across multiple industries.  \nNexora operates across India, the United Kingdom, Europe and North America.  \nAs of 01 April 2026, Nexora has approximately **1,180 employees and approved workforce members** across its operating locations.  \nThe company combines consulting, engineering and managed services capabilities to help customers modernize technology platforms, improve operational processes and build data-driven products.  \nNexora's operating philosophy is:  \n**_Understand the problem. Protect the information. Build responsibly. Deliver measurable value. Learn continuously._**",
+        "metadata": {
+          "h1": "**Company, People & Corporate Governance Handbook**",
+          "h2": "**Document Control**",
+          "h3": "**Revision History**",
+          "source": "data\\processed\\markdown\\01_company_people_governance.md"
+        }
+      },
+      {
+        "text": "# **1. Purpose, Scope & Commercial Operating Philosophy**  \n## **a. Purpose**  \nNexora Technologies Pvt. Ltd. operates across India, the UK, Europe, and North America, providing digital engineering, data and AI, cloud and infrastructure, cybersecurity, digital experience, managed services, and technology consulting.  \nThis handbook establishes the operating framework for:  \nI. Sales management II. Account management III. Business development IV. Marketing V. Pricing and commercial approvals VI. Contract-to-cash processes VII. Financial planning and control VIII. Revenue management IX. Procurement X. Vendor management XI. Expense management XII. Budgeting and forecasting XIII. Commercial risk management XIV. Financial reporting",
+        "metadata": {
+          "h1": "**1. Purpose, Scope & Commercial Operating Philosophy**",
+          "h2": "**a. Purpose**",
+          "source": "data\\processed\\markdown\\07_sales_marketing_finance_procurement.md"
+        }
+      }
+    ]
+  },
+  {
+    "question": "What areas and practices are covered by Nexora's software engineering framework?",
+    "expected_source": "02_product_engineering_software.md",
+    "expected_text": "software engineering",
+    "answer": "Nexora’s software‑engineering framework covers:\n\n- Product engineering and planning  \n- Software architecture and requirements  \n- Development practices (source control, code review, testing, quality engineering, API and database engineering)  \n- DevOps and CI/CD, release engineering, technical documentation, open‑source software, technical debt, engineering metrics, software maintenance, and product retirement.",
+    "contexts": [
+      {
+        "text": "# **1. Purpose, Scope & Engineering Philosophy**  \n## **a. Purpose**  \nThis handbook defines the standards, operating practices and responsibilities used by Nexora Technologies for product development, software engineering and technology delivery.  \nIt establishes a common engineering framework while allowing individual teams to select implementation approaches appropriate to their products and customers.  \nThe handbook covers:  \n- Product engineering  \n- Software architecture  \n- Requirements  \n- Product planning  \n- Development  \n- Source control  \n- Code review  \n- Testing  \n- Quality engineering  \n- API development  \n- Database engineering  \n- DevOps  \n- CI/CD  \n- Release engineering  \n- Technical documentation  \n- Open-source software  \n- Technical debt  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 1 / 48  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \n- Engineering metrics  \n- Software maintenance  \n- Product retirement",
+        "metadata": {
+          "h1": "**1. Purpose, Scope & Engineering Philosophy**",
+          "h2": "**a. Purpose**",
+          "source": "data\\processed\\markdown\\02_product_engineering_software.md"
+        }
+      },
+      {
+        "text": "# **1. Purpose, Scope & Operating Model**  \n## **a. Purpose**  \nThis handbook establishes the standards and operating practices used by Nexora Technologies for cloud platforms, infrastructure, enterprise technology and internal IT services.  \nIt defines how Nexora provisions, operates, secures, monitors and supports technology infrastructure used by employees, engineering teams, business functions and customer-facing workloads.  \nThe handbook covers:  \n- Cloud platforms  \n- Infrastructure engineering  \n- Platform engineering  \n- Networking  \n- Compute  \n- Storage  \n- Databases  \n- Identity infrastructure  \n- Corporate IT  \n- Employee devices  \n- SaaS applications  \n- Service Desk  \n- IT asset management  \n- Monitoring  \n- Observability  \n- Backup  \n- Recovery  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 1 / 43  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \n- Capacity management  \n- Infrastructure security  \n- Cloud cost management  \n- Infrastructure lifecycle",
+        "metadata": {
+          "h1": "**1. Purpose, Scope & Operating Model**",
+          "h2": "**a. Purpose**",
+          "source": "data\\processed\\markdown\\03_cloud_infrastructure_it.md"
+        }
+      },
+      {
+        "text": "## **c. Data Contracts**  \nShared data producers and consumers should document important schema expectations.  \nBreaking schema changes require coordinated migration.\n\n# **36. Developer Experience**  \n## **a. Development Environment**  \nEngineering teams should provide standardized development guidance.  \nA new engineer should be able to understand:  \n- Repository structure  \n- Local setup  \n- Required dependencies  \n- Testing  \n- Build  \n- Deployment process  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 36 / 48  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**",
+        "metadata": {
+          "h1": "**35. Data Engineering in Product Development**",
+          "h2": "**c. Data Contracts**",
+          "source": "data\\processed\\markdown\\02_product_engineering_software.md"
+        }
+      }
+    ]
+  },
+  {
+    "question": "What cloud infrastructure platforms does Nexora use?",
+    "expected_source": "03_cloud_infrastructure_it.md",
+    "expected_text": "Google Cloud Platform (GCP)",
+    "answer": "Nexora’s primary cloud platform is **Google Cloud Platform (GCP)**, though other cloud platforms may be used when required for customers, acquired technology, specific workloads, geographic or regulatory reasons, or justified multi‑cloud scenarios.",
+    "contexts": [
+      {
+        "text": "## **c. Standard Cloud Provider**  \nNexora's primary enterprise cloud platform for cloud-native workloads is **Google Cloud Platform (GCP)** .  \nOther cloud platforms may be used when:  \n- Required by a customer  \n- Required by an acquired technology  \n- Required by a specific technical workload  \n- Required for geographic or regulatory reasons  \n- Multi-cloud usage must have an identified business or technical rationale.  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 4 / 43  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**",
+        "metadata": {
+          "h1": "**3. Enterprise Technology Architecture**",
+          "h2": "**c. Standard Cloud Provider**",
+          "source": "data\\processed\\markdown\\03_cloud_infrastructure_it.md"
+        }
+      },
+      {
+        "text": "# **6. Compute Infrastructure**  \n## **a. Compute Options**  \nNexora may use:  \n- Virtual machines  \n- Containers  \n- Managed container platforms  \n- Serverless compute  \n- Batch processing  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 6 / 43  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \n- Specialized compute  \nTechnology selection depends on:  \n- Workload  \n- Scale  \n- Operational requirements  \n- Cost  \n- Security  \n- Team capability",
+        "metadata": {
+          "h1": "**6. Compute Infrastructure**",
+          "h2": "**a. Compute Options**",
+          "source": "data\\processed\\markdown\\03_cloud_infrastructure_it.md"
+        }
+      },
+      {
+        "text": "## **c. Engineering Targets**  \n|**Metric**|**Target**|\n|---|---|\n|API availability|99.9%|\n|API p95 latency|<500 ms|\n|New-code coverage|≥85%|\n|Critical vulnerabilities|0|\n|Standard pipeline duration|<15 min|\n|Production deployment|Fully traceable|\n\n## **d. Architecture**  \nThe platform uses:  \n- Cloud-hosted services  \n- PostgreSQL  \n- Data warehouse  \n- REST APIs  \n- Containerized services CI/CD  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 41 / 48  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \nCentralized identity",
+        "metadata": {
+          "h1": "**42. Example Engineering Project**",
+          "h2": "**c. Engineering Targets**",
+          "source": "data\\processed\\markdown\\02_product_engineering_software.md"
+        }
+      }
+    ]
+  },
+  {
+    "question": "What security controls does Nexora have in place?",
+    "expected_source": "04_security_risk_privacy_compliance.md",
+    "expected_text": "Security Objectives",
+    "answer": "Nexora’s security controls include:\n\n- Identity  \n- Network segmentation  \n- Encryption  \n- Logging  \n- Monitoring  \n- Vulnerability management  \n- Configuration management  \n- Backup protection  \n- Administrative access",
+    "contexts": [
+      {
+        "text": "## **c. Security Objectives**  \nNexora maintains five primary security objectives.  \n|**Objective**|**Description**|\n|---|---|\n|Confidentiality|Information is accessible only to authorized individuals and systems|\n|Integrity|Information and systems remain accurate, trustworthy, and protected against unauthorized modification|\n|Availability|Critical services remain available within approved business requirements|\n|Privacy|Personal information is collected, processed, retained, and deleted appropriately|\n|Accountability|Security actions can be attributed to authorized identities and reviewed when necessary|",
+        "metadata": {
+          "h1": "**1. Purpose, Scope & Security Philosophy**",
+          "h2": "**c. Security Objectives**",
+          "source": "data\\processed\\markdown\\04_security_risk_privacy_compliance.md"
+        }
+      },
+      {
+        "text": "## **e. Configuration Baselines**  \nApproved security baselines exist for:  \nI. Corporate laptops II. Cloud workloads III. Container images IV. Operating systems V. Databases VI. Network devices VII. Identity platforms  \nUnauthorized deviations must be documented and reviewed.\n\n# **8. Cloud, Network, Endpoint & Infrastructure Security**  \n## **a. Cloud Security**  \nNexora primarily operates production cloud workloads on Google Cloud Platform.  \nSecurity controls cover:  \nI. Identity II. Network segmentation III. Encryption IV. Logging V. Monitoring VI. Vulnerability management  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 13 / 34  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \nVII. Configuration management VIII. Backup protection IX. Administrative access",
+        "metadata": {
+          "h1": "**7. Vulnerability, Patch & Configuration Management**",
+          "h2": "**e. Configuration Baselines**",
+          "source": "data\\processed\\markdown\\04_security_risk_privacy_compliance.md"
+        }
+      },
+      {
+        "text": "# **2. Security Organization & Governance**  \n## **a. Security Organization**  \nNexora's security function is led by the Chief Information Security Officer.  \nThe security organization consists of:  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 2 / 34  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \nI. Security Leadership II. Security Governance and Risk III. Security Operations IV. Application and Product Security V. Cloud and Infrastructure Security VI. Identity and Access Management VII. Privacy and Data Protection VIII. Security Assurance IX. Third-Party Security  \nThe organization works with the approximately 1,180-person Nexora workforce through designated security responsibilities embedded in business and technology teams.",
+        "metadata": {
+          "h1": "**2. Security Organization & Governance**",
+          "h2": "**a. Security Organization**",
+          "source": "data\\processed\\markdown\\04_security_risk_privacy_compliance.md"
+        }
+      }
+    ]
+  },
+  {
+    "question": "What AI and automation capabilities does Nexora have?",
+    "expected_source": "05_data_analytics_ai_automation.md",
+    "expected_text": "Data and AI Philosophy",
+    "answer": "**AI capabilities**  \n- Artificial intelligence and machine learning (including generative AI)  \n- AI governance and model risk management  \n- AI operations, measurement, and continuous improvement  \n\n**Automation capabilities** (via Nexora Flow)  \n- Notifications  \n- Data synchronization  \n- Approval workflows  \n- Report generation  \n- Service requests  \n- Scheduled tasks  \n- Operational checks  \n- Document processing",
+    "contexts": [
+      {
+        "text": "## **c. Data and AI Philosophy**  \nNexora treats data as an enterprise asset and AI as a controlled capability rather than an independent technology category.  \nThe operating philosophy is:  \n**_Make data trustworthy. Make decisions measurable. Make AI useful. Automate responsibly. Protect information throughout the lifecycle._**",
+        "metadata": {
+          "h1": "**1. Purpose, Scope & Data Operating Philosophy**",
+          "h2": "**c. Data and AI Philosophy**",
+          "source": "data\\processed\\markdown\\05_data_analytics_ai_automation.md"
+        }
+      },
+      {
+        "text": "# **1. Purpose, Scope & Data Operating Philosophy**  \n## **a. Purpose**  \nNexora Technologies Pvt. Ltd. uses data, analytics, artificial intelligence, machine learning, and workflow automation to improve customer outcomes, operational efficiency, product capabilities, and management decision-making.  \nThis handbook establishes the enterprise framework for:  \nI. Data ownership and stewardship II. Data architecture and lifecycle management III. Data quality IV. Analytics and reporting V. Business intelligence VI. Data engineering VII. Artificial intelligence and machine learning VIII. Generative AI IX. Enterprise automation X. AI governance XI. Data privacy and security XII. Model risk management XIII. Data and AI operations XIV. Measurement and continuous improvement  \nThe objective is to ensure that data and AI systems are useful, trustworthy, secure, explainable where appropriate, and operated responsibly.",
+        "metadata": {
+          "h1": "**1. Purpose, Scope & Data Operating Philosophy**",
+          "h2": "**a. Purpose**",
+          "source": "data\\processed\\markdown\\05_data_analytics_ai_automation.md"
+        }
+      },
+      {
+        "text": "## **b. Nexora Flow**  \nNexora Flow is the enterprise workflow automation platform.  \nCommon automation categories include:  \nI. Notifications II. Data synchronization III. Approval workflows IV. Report generation V. Service requests VI. Scheduled tasks VII. Operational checks VIII. Document processing",
+        "metadata": {
+          "h1": "**14. Enterprise Automation & Workflow Governance**",
+          "h2": "**b. Nexora Flow**",
+          "source": "data\\processed\\markdown\\05_data_analytics_ai_automation.md"
+        }
+      }
+    ]
+  },
+  {
+    "question": "What customer delivery and success processes does Nexora follow?",
+    "expected_source": "06_customer_delivery_success.md",
+    "expected_text": "Customer Delivery Principles",
+    "answer": "Nexora’s approach combines a **Customer Success** focus on measurable value with a set of **Customer Delivery principles**:\n\n* **Customer Success Objective** – ensures customers achieve concrete outcomes such as higher adoption, lower operational cost, better experience, increased revenue, reduced risk, higher employee productivity and faster decision‑making.\n\n* **Customer Delivery Principles** – eight guiding rules (summarized in the excerpts):\n  1. **Customers buy outcomes, not activity** – delivery is aimed at measurable value.  \n  2. **A commitment is an operational responsibility** – commitments are owned, timed, and have clear acceptance criteria.  \n  3. **Problems should become visible early** – risks are identified before they impact the customer.  \n  4. **Communication is part of delivery** – progress, risks and value must be clearly communicated.  \n  5. **Scope must be explicit** – informal requests do not become unplanned work.  \n  6. **Quality belongs to everyone** – all team members share responsibility for quality.  \n  7. **Understand Before Building** – fully grasp the customer’s business problem before proposing a solution.  \n  8. **Commit Carefully** – make realistic, documented, and owned commercial and delivery commitments.",
+    "contexts": [
+      {
+        "text": "# **10. Customer Success, Adoption & Value Realization**  \n## **a. Customer Success Objective**  \nCustomer Success focuses on ensuring that customers realize measurable value from Nexora's capabilities.  \nSuccess may include:  \nI. Increased adoption II. Reduced operational cost III. Improved customer experience IV. Increased revenue V. Reduced risk VI. Improved employee productivity VII. Faster decision-making",
+        "metadata": {
+          "h1": "**10. Customer Success, Adoption & Value Realization**",
+          "h2": "**a. Customer Success Objective**",
+          "source": "data\\processed\\markdown\\06_customer_delivery_success.md"
+        }
+      },
+      {
+        "text": "## **c. Customer Delivery Principles**  \nNexora follows eight delivery principles.\n\n### **I. Understand Before Building**  \nTeams must understand the customer's business problem before committing to a technical solution.\n\n### **II. Commit Carefully**  \nCommercial and delivery commitments must be realistic, documented, and owned.",
+        "metadata": {
+          "h1": "**1. Purpose, Scope & Customer Delivery Philosophy**",
+          "h2": "**c. Customer Delivery Principles**",
+          "source": "data\\processed\\markdown\\06_customer_delivery_success.md"
+        }
+      },
+      {
+        "text": "# **Appendix J. Customer Delivery Principles**  \nNexora's customer delivery organization operates according to the following principles:  \n#### **1. Customers buy outcomes, not activity.**  \nThe purpose of delivery is to produce measurable customer value.  \n#### **2. A commitment is an operational responsibility.**  \nOnce a commitment is made, ownership, timing, dependencies, and acceptance criteria must be understood.  \n#### **3. Problems should become visible early.**  \nAn unresolved risk is easier to manage when identified before it becomes a customer-impacting issue.  \n#### **4. Communication is part of delivery.**  \nA technically strong project can still fail commercially when customers do not understand its progress, risks, or value.  \n#### **5. Scope must be explicit.**  \nInformal requests should not silently become unplanned commitments.  \n#### **6. Quality belongs to everyone.**",
+        "metadata": {
+          "h1": "**Appendix J. Customer Delivery Principles**",
+          "source": "data\\processed\\markdown\\06_customer_delivery_success.md"
+        }
+      }
+    ]
+  },
+  {
+    "question": "What sales and marketing functions are defined at Nexora?",
+    "expected_source": "07_sales_marketing_finance_procurement.md",
+    "expected_text": "Sales Pipeline & Opportunity Management",
+    "answer": "Nexora’s sales functions are defined by its standard opportunity lifecycle, which includes:\n\n1. Lead  \n2. Qualification  \n3. Discovery  \n4. Solution Development  \n5. Proposal  \n6. Commercial Negotiation  \n7. Contract Review  \n8. Closed Won  \n9. Delivery Handover  \n10. Closed Lost  \n\nThe provided context does not specify any separate marketing functions.",
+    "contexts": [
+      {
+        "text": "## **d. Business Model**  \nNexora operates through a combination of:  \n- Technology consulting  \n- Software engineering  \n- Digital transformation  \n- Cloud transformation  \n- Data and analytics services  \n- Artificial intelligence solutions  \n- Cybersecurity services  \n- Managed services  \n- Product development  \n- Technical support  \nRevenue may be generated through fixed-price projects, time-and-materials engagements, managed-service contracts, subscriptions, implementation services and other approved commercial arrangements.  \nThe specific commercial model for a customer is determined through the sales, commercial, finance and legal processes defined in the applicable corporate procedures.",
+        "metadata": {
+          "h1": "**1. Company Overview**",
+          "h2": "**d. Business Model**",
+          "source": "data\\processed\\markdown\\01_company_people_governance.md"
+        }
+      },
+      {
+        "text": "# **4. Sales Pipeline & Opportunity Management**  \n## **a. Opportunity Lifecycle**  \nNexora's standard sales lifecycle is:  \n1. Lead  \n2. Qualification  \n3. Discovery  \n4. Solution Development  \n5. Proposal  \n6. Commercial Negotiation  \n7. Contract Review  \n8. Closed Won  \n9. Delivery Handover  \n10. Closed Lost",
+        "metadata": {
+          "h1": "**4. Sales Pipeline & Opportunity Management**",
+          "h2": "**a. Opportunity Lifecycle**",
+          "source": "data\\processed\\markdown\\07_sales_marketing_finance_procurement.md"
+        }
+      },
+      {
+        "text": "# **3. Sales Strategy, Markets & Account Management**  \n## **a. Market Segments**  \nNexora serves organizations across:  \nI. Financial Services II. Retail and Consumer III. Healthcare and Life Sciences IV. Manufacturing V. Technology VI. Telecommunications VII. Professional Services  \nVIII. Public and regulated sectors where appropriate",
+        "metadata": {
+          "h1": "**3. Sales Strategy, Markets & Account Management**",
+          "h2": "**a. Market Segments**",
+          "source": "data\\processed\\markdown\\07_sales_marketing_finance_procurement.md"
+        }
+      }
+    ]
+  },
+  {
+    "question": "What procurement processes does Nexora follow?",
+    "expected_source": "07_sales_marketing_finance_procurement.md",
+    "expected_text": "Procurement Strategy & Supplier Management",
+    "answer": "Nexora’s procurement approach is guided by a philosophy that seeks the best overall business outcome rather than simply the lowest price. Supplier evaluation is performed against a set of criteria that include price, quality, capability, security, reliability, delivery time, support, financial stability, and total cost of ownership.",
+    "contexts": [
+      {
+        "text": "## **d. Business Model**  \nNexora operates through a combination of:  \n- Technology consulting  \n- Software engineering  \n- Digital transformation  \n- Cloud transformation  \n- Data and analytics services  \n- Artificial intelligence solutions  \n- Cybersecurity services  \n- Managed services  \n- Product development  \n- Technical support  \nRevenue may be generated through fixed-price projects, time-and-materials engagements, managed-service contracts, subscriptions, implementation services and other approved commercial arrangements.  \nThe specific commercial model for a customer is determined through the sales, commercial, finance and legal processes defined in the applicable corporate procedures.",
+        "metadata": {
+          "h1": "**1. Company Overview**",
+          "h2": "**d. Business Model**",
+          "source": "data\\processed\\markdown\\01_company_people_governance.md"
+        }
+      },
+      {
+        "text": "# **12. Procurement Strategy & Supplier Management**  \n## **a. Procurement Philosophy**  \nProcurement seeks the best overall business outcome rather than the lowest purchase price alone.  \nSupplier evaluation considers:  \nI. Price II. Quality III. Capability IV. Security V. Reliability VI. Delivery time  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 16 / 36  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \nVII. Support VIII. Financial stability IX. Total cost of ownership",
+        "metadata": {
+          "h1": "**12. Procurement Strategy & Supplier Management**",
+          "h2": "**a. Procurement Philosophy**",
+          "source": "data\\processed\\markdown\\07_sales_marketing_finance_procurement.md"
+        }
+      },
+      {
+        "text": "# **4. Sales Pipeline & Opportunity Management**  \n## **a. Opportunity Lifecycle**  \nNexora's standard sales lifecycle is:  \n1. Lead  \n2. Qualification  \n3. Discovery  \n4. Solution Development  \n5. Proposal  \n6. Commercial Negotiation  \n7. Contract Review  \n8. Closed Won  \n9. Delivery Handover  \n10. Closed Lost",
+        "metadata": {
+          "h1": "**4. Sales Pipeline & Opportunity Management**",
+          "h2": "**a. Opportunity Lifecycle**",
+          "source": "data\\processed\\markdown\\07_sales_marketing_finance_procurement.md"
+        }
+      }
+    ]
+  },
+  {
+    "question": "What business continuity measures does Nexora have?",
+    "expected_source": "08_legal_operations_continuity_knowledge.md",
+    "expected_text": "Business continuity plan completion",
+    "answer": "Nexora’s business‑continuity measures include:\n\n* **Continuity metrics** that track:\n  1. Business‑continuity‑plan completion  \n  2. Recovery‑test completion  \n  3. Recovery‑target achievement  \n  4. Critical‑dependency coverage  \n  5. Open continuity actions (e.g., aiming for 100 % of critical business functions to have current continuity plans)\n\n* **A Business Continuity Planning checklist** covering:\n  - Assignment of a business owner  \n  - Identification of critical processes  \n  - Completion of a business‑impact analysis  \n  - Definition of RTO (Recovery Time Objective) and RPO (Recovery Point Objective)  \n  - Identification of dependencies and minimum staffing  \n  - Documentation of alternate processes, technology recovery requirements, communication plan, and escalation contacts  \n  - Testing of recovery procedures, recording lessons learned, and reviewing the plan within the required cycle.",
+    "contexts": [
+      {
+        "text": "# **17. Operational Metrics, Assurance & Continuous Improvement**  \n## **a. Continuity Metrics**  \nNexora may measure:  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 21 / 32  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \nI. Business continuity plan completion II. Recovery test completion III. Recovery target achievement IV. Critical dependency coverage V. Open continuity actions Example target:  \n**100% of critical business functions have current continuity plans.**",
+        "metadata": {
+          "h1": "**17. Operational Metrics, Assurance & Continuous Improvement**",
+          "h2": "**a. Continuity Metrics**",
+          "source": "data\\processed\\markdown\\08_legal_operations_continuity_knowledge.md"
+        }
+      },
+      {
+        "text": "## **b. Service Ownership**  \nEach managed service must have:  \nI. Service owner II. Technical owner III. Support model IV. Monitoring V. Escalation path VI. Service-level definition  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 16 / 34  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**\n\n## **c. Service Severity**  \n|**Severity**|**Example**|**Initial Response**|\n|---|---|---|\n|P1|Critical customer service outage|15 minutes|\n|P2|Major degradation|30 minutes|\n|P3|Significant issue|4 business hours|\n|P4|Standard request|1 business day|  \nThese targets align with Nexora's enterprise service-management framework where applicable.",
+        "metadata": {
+          "h1": "**11. Managed Services, Support & Service Levels**",
+          "h2": "**b. Service Ownership**",
+          "source": "data\\processed\\markdown\\06_customer_delivery_success.md"
+        }
+      },
+      {
+        "text": "# **Appendix A. Business Continuity Planning Checklist**  \n- [ ] Business owner assigned  \n- [ ] Critical process identified  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 26 / 32  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \n- [ ] Business impact analysis completed  \n- [ ] RTO defined  \n- [ ] RPO defined  \n- [ ] Dependencies identified  \n- [ ] Minimum staffing identified  \n- [ ] Alternate process documented  \n- [ ] Technology recovery requirements documented  \n- [ ] Communication plan documented  \n- [ ] Escalation contacts documented  \n- [ ] Recovery procedure tested  \n- [ ] Lessons learned recorded  \n- [ ] Plan reviewed within required cycle",
+        "metadata": {
+          "h1": "**Appendix A. Business Continuity Planning Checklist**",
+          "source": "data\\processed\\markdown\\08_legal_operations_continuity_knowledge.md"
+        }
+      }
+    ]
+  },
+  {
+    "question": "What knowledge management practices does Nexora use?",
+    "expected_source": "08_legal_operations_continuity_knowledge.md",
+    "expected_text": "Enterprise Knowledge Management",
+    "answer": "Nexora’s knowledge‑management approach centers on its internal platform, **Nexora KnowledgeHub**, and includes:\n\n* **Purpose/Support areas** – employee productivity, operational continuity, onboarding, customer delivery, technical support, decision‑making, and organizational learning.  \n* **Knowledge‑transfer artifacts for critical roles** – runbooks, process documentation, contact lists, architecture information, decision‑history records, and recovery instructions.  \n* **Knowledge categories stored in KnowledgeHub** – corporate policies, engineering standards, IT and security procedures, data standards, customer‑delivery practices, finance and procurement procedures, legal guidance, and business‑continuity procedures.",
+    "contexts": [
+      {
+        "text": "# **12. Enterprise Knowledge Management**  \n## **a. Knowledge Management Purpose**  \nNexora KnowledgeHub is the primary internal knowledge platform for approved corporate knowledge.  \nKnowledge management supports:  \nI. Employee productivity II. Operational continuity III. Onboarding IV. Customer delivery V. Technical support VI. Decision-making VII. Organizational learning",
+        "metadata": {
+          "h1": "**12. Enterprise Knowledge Management**",
+          "h2": "**a. Knowledge Management Purpose**",
+          "source": "data\\processed\\markdown\\08_legal_operations_continuity_knowledge.md"
+        }
+      },
+      {
+        "text": "## **b. Knowledge Transfer**  \nCritical roles should maintain:  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 18 / 32  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**  \nI. Runbooks II. Process documentation III. Contact lists IV. Architecture information V. Decision history VI. Recovery instructions",
+        "metadata": {
+          "h1": "**14. Corporate Knowledge Continuity & Employee Transition**",
+          "h2": "**b. Knowledge Transfer**",
+          "source": "data\\processed\\markdown\\08_legal_operations_continuity_knowledge.md"
+        }
+      },
+      {
+        "text": "## **b. Knowledge Categories**  \nKnowledgeHub may contain:  \nI. Corporate policies II. Engineering standards III. IT procedures IV. Security procedures V. Data standards VI. Customer delivery practices VII. Finance procedures VIII. Procurement guidance IX. Legal guidance X. Business continuity procedures  \nNEXORA TECHNOLOGIES  \nControlled Electronic Document  \nPAGE 16 / 32  \nINTERNAL USE ONLY  \n**NEXORA TECHNOLOGIES**",
+        "metadata": {
+          "h1": "**12. Enterprise Knowledge Management**",
+          "h2": "**b. Knowledge Categories**",
+          "source": "data\\processed\\markdown\\08_legal_operations_continuity_knowledge.md"
+        }
+      }
+    ]
+  }
+]
