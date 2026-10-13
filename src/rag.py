@@ -20,7 +20,16 @@ index = faiss.read_index(str(VECTOR_DIR / "v3_locked.faiss"))
 with open(VECTOR_DIR / "v3_locked_chunks.pkl", "rb") as file:
     chunks = pickle.load(file)
 
-embeddings = HuggingFaceEmbeddings(model_name=MODEL)
+_embeddings = None
+
+
+def get_embeddings():
+    global _embeddings
+
+    if _embeddings is None:
+        _embeddings = HuggingFaceEmbeddings(model_name=MODEL)
+
+    return _embeddings
 
 
 @traceable(name="faiss_retrieval", run_type="retriever")
@@ -51,7 +60,7 @@ def ask(question: str) -> dict:
 
     start = time.perf_counter()
     query_vector = np.array(
-        [embeddings.embed_query(question)],
+        [get_embeddings().embed_query(question)],
         dtype="float32",
     )
     embedding_ms = (time.perf_counter() - start) * 1000
