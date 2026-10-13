@@ -21,6 +21,8 @@ import {
 } from 'recharts'
 import './App.css'
 
+const API_BASE_URL = (import.meta.env.VITE_API_BASE_URL || '').replace(/\/$/, '')
+
 type DataRecord = Record<string, unknown>
 
 type Experiment = {
@@ -346,7 +348,7 @@ function ChatPage() {
     setLoading(true)
 
     try {
-      const result = await fetch('/api/chat', {
+      const result = await fetch(`${API_BASE_URL}/api/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ question: value }),
@@ -582,7 +584,7 @@ function OnlineDashboard() {
     setError('')
 
     try {
-      const response = await fetch('/api/traces?limit=100')
+      const response = await fetch(`${API_BASE_URL}/api/traces?limit=100`)
 
       if (!response.ok) {
         throw new Error(`Failed to load traces (${response.status})`)
@@ -828,7 +830,7 @@ function App() {
   const [page, setPage] = useState<'evaluation' | 'chat' | 'online'>('evaluation')
 
   useEffect(() => {
-    fetch('/api/evaluations')
+    fetch(`${API_BASE_URL}/api/evaluations`)
       .then((response) => {
         if (!response.ok) {
           throw new Error('Could not load evaluation data.')
